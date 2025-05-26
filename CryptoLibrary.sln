@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoLibrary", "CryptoLibrary.csproj", "{E3425198-AEE3-4831-92A9-A0013ADF3FDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3425198-AEE3-4831-92A9-A0013ADF3FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3425198-AEE3-4831-92A9-A0013ADF3FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3425198-AEE3-4831-92A9-A0013ADF3FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3425198-AEE3-4831-92A9-A0013ADF3FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
