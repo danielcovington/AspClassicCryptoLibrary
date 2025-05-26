@@ -1,0 +1,7 @@
+C:\Development\dotnet\CryptoLibrary\bin\Debug\CryptoLibrary.dll
+C:\Development\dotnet\CryptoLibrary\bin\Debug\CryptoLibrary.pdb
+C:\Development\dotnet\CryptoLibrary\bin\Debug\CryptoLibrary.tlb
+C:\Development\dotnet\CryptoLibrary\obj\Debug\CryptoLibrary.csproj.AssemblyReference.cache
+C:\Development\dotnet\CryptoLibrary\obj\Debug\CryptoLibrary.csproj.CoreCompileInputs.cache
+C:\Development\dotnet\CryptoLibrary\obj\Debug\CryptoLibrary.dll
+C:\Development\dotnet\CryptoLibrary\obj\Debug\CryptoLibrary.pdb
